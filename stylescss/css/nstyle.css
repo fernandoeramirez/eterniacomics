@@ -1,0 +1,33 @@
+.notiEter {
+  text-align: justify;
+  margin: 10px; }
+  .notiEter h3 {
+    text-align: center; }
+  .notiEter .notiEter1 {
+    margin-bottom: 50px;
+    border: solid 2px black; }
+    .notiEter .notiEter1 h3 {
+      font-weight: 200; }
+    .notiEter .notiEter1 img {
+      justify-self: center;
+      text-align: center; }
+    .notiEter .notiEter1 p {
+      font-size: 20px; }
+  .notiEter .notiEter2 {
+    margin-bottom: 50px;
+    border: solid 2px black; }
+  .notiEter .notiEter3 {
+    margin-bottom: 50px;
+    border: solid 2px black; }
+
+.imgNoti-1 {
+  width: 720px;
+  height: 420px; }
+
+.imgNoti-2 {
+  width: 360px;
+  height: 210px; }
+
+.imgNoti-3 {
+  width: 360px;
+  height: 210px; }
